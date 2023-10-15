@@ -1,0 +1,148 @@
+header{
+    display: flex;
+    justify-content: flex-start;
+    background-color: skyblue;
+    
+ }
+ 
+ nav ul li{
+     display: inline;
+     padding: 10px;
+     padding: 30px;   
+ }
+ nav ul li a{
+     border:5px;
+     background-color: beige;
+     text-decoration: none;
+     padding: 10px;
+     border-radius: 20%;
+     color: sandybrown;
+ }
+ #Home{
+   text-align: center;
+   margin-top: 100px;
+ }
+ .item{
+     display: grid;
+     display: flex;
+     gap:20px;
+   }
+   #About{
+     text-align: center;
+   }
+   pre{
+    font-size: 20px;
+    
+   }
+   .grid{
+    display: grid;
+    display: flex;
+    gap:70px;
+   }
+   .ice{
+    display: grid;
+    display: flex;
+    gap:70px;
+   }
+   h2{
+    color:#EB237C;
+    text-align: center;
+    font-size: 40px;
+   }
+   body{
+    background-image: url(https://2.bp.blogspot.com/-m8Vcb2c9h6U/TdBuW_8OMGI/AAAAAAAAAaw/pBX7ZcL8Q2U/s1600/icecream.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   }
+   .cream{
+    display: grid;
+    display: flex;
+    gap:20px;
+    flex-wrap: nowrap;
+   }
+   .product1{
+    background-color: pink;
+    height: 450px;
+    width: 300px;
+    margin-right: 200px;
+    border-radius: 40px;
+    padding: 13px;
+   }
+   .product2{
+    background-color:#D278E0;
+    height: 450px;
+    width: 400px;
+    margin-right: 200px;
+    border-radius: 40px;
+   }
+   #img1{
+    margin-left: 50px;
+    margin-top: 70px;
+    border-radius: 40px;
+   }
+   .product3{
+    background-color:#6CEC86;
+    height: 400px;
+    width: 350px;
+    margin-right: 150px;
+    border-radius: 40px;
+   }
+   #img2{
+    height:260px;
+    width:260px;
+    margin-top: 50px;
+    margin-left: 60px;
+   }
+   .product4{
+    background-color:skyblue;
+    height: 400px;
+    width: 350px;
+    margin-right: 150px;
+    border-radius: 40px;
+   }
+   #img3{
+    height:260px;
+    width:260px;
+    margin-top: 50px;
+    margin-left: 60px;
+    border-radius: 40px;
+   }
+   .product5{
+    background-color:chocolate;
+    height: 390px;
+    width: 400px;
+    margin-right: 150px;
+    border-radius: 40px;
+   }
+   #img4{
+    height:260px;
+    width:260px;
+    margin-top: 50px;
+    margin-left: 60px;
+    border-radius: 40px;
+   }
+   .product6{
+    background-color:#DCE77D;
+    height: 390px;
+    width: 400px;
+    margin-right: 150px;
+    border-radius: 40px;
+   }
+
+   .button123{
+      text-align: center;
+      margin-top: 20px;
+   }
+   .button124{
+    text-align: center;
+    margin-top: 10px;
+   }
+   .button122{
+    text-align: center;
+    margin-top: 20px;
+   }
+   .fav2{
+    border-radius: 100px;
+   }
+   
